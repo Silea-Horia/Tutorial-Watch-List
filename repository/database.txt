@@ -1,0 +1,13 @@
+How to open CLion,Harry,10,20,2,https://www.youtube.com/watch?v=7qMk79sIv5U
+How to close CLion,Harry,0,40,3,https://www.youtube.com/watch?v=rfdqzfsCmx0
+How to create a project,Harry,50,21,2137,https://www.youtube.com/watch?v=8qG_BK11nLg
+How to save a project,Harry,3,0,477,https://www.youtube.com/watch?v=x8oca0LB6Fc
+How to push to GitHub like a boss,Harry,45,56,876,https://www.youtube.com/watch?v=ZzaPdXTrSb8
+How to deal with memory leaks,Harry,59,59,6549040,https://www.youtube.com/watch?v=7DCO-IISBnc
+How to copy and paste,Michael,29,49,7692,https://www.youtube.com/watch?v=wN0x9eZLix4
+How not to go insane doing your homework,Alex,33,56,7693,https://www.youtube.com/watch?v=MNeX4EGtR5Y
+How to sleep well after doing your homework,Alex,0,59,145444,https://www.youtube.com/watch?v=i_wDa2AS_8w
+How to write good code,Michael,18,18,0,https://www.youtube.com/watch?v=8h6zkOfBBlU&ab_channel=OFFSETYRN
+tut,Michael,32,23,2,youtube
+title,test,12,12,1,test
+Tut,test,10,10,127,youtube
